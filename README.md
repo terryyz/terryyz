@@ -3,9 +3,6 @@
 #### News
 Looking for a research program/internship (Nov.2020 - Mar.2021).
 
-#### Who Am I?
-Terry Zhuo, an undergrad just stepped into the world of computer science. 
-
 #### What have I done?
 Learning, learning and learning... :blue_book: A long long journey from electrical engineering to computer science since 2018... :mountain_cableway:
 
