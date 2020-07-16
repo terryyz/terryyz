@@ -12,3 +12,5 @@ The research project: ***Casual Reasoning*** :question:
 Love making friends! Feel free to chat with me :smirk:  
   
 [More About Me](https://terryyz.github.io/_pages/resume.pdf)
+
+[![Terry Zhuo's Github stats](https://github-readme-stats.vercel.app/api?username=terryyz)](https://github.com/anuraghazra/github-readme-stats)
