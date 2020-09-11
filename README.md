@@ -1,7 +1,7 @@
 ## Hi there :wave:
 
 #### News
-Will work with [Conrad Sanderson](https://github.com/conradsnicta) this summer on the improvement of Tools for Data Analytics and Machine Learning.  
+Will work with [Conrad Sanderson](https://github.com/conradsnicta) this summer on the improvement of tools for data analytics and machine learning.  
 But still looking for more fun :p
   
 #### About Me 
