@@ -1,15 +1,11 @@
 ## Hi there :wave:
 
 #### News
-Looking for a research program/internship (Nov.2020 - Mar.2021).  
+Will work with [Conrad Sanderson](https://github.com/conradsnicta) this summer on the improvement of Tools for Data Analytics and Machine Learning.  
+But still looking for more fun :p
   
 #### About Me 
-Learning, learning and learning... :blue_book: A long long journey from electrical engineering to computer science since 2018... :mountain_cableway:  
-Term 2 course study: ***Structures and Algorithms***(trivial), ***Discrete Math***, ***Operating System***(important) and ***SLAM Design***  
-The course I teach: ***Circuits and Signals***  
-The research project: ***Causal Reasoning*** :question:  
-  
-Love making friends! Feel free to chat with me :smirk:  
+Trivial me. Trivial things.
   
 [More About Me](https://terryyz.github.io/_pages/resume.pdf)
 
