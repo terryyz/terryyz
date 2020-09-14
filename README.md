@@ -9,4 +9,3 @@ Trivial me. Trivial things.
   
 [More About Me](https://terryyz.github.io/_pages/resume.pdf)
 
-[![Terry Zhuo's Github stats](https://github-readme-stats.vercel.app/api?username=terryyz)](https://github.com/anuraghazra/github-readme-stats)
