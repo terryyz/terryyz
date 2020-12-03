@@ -7,5 +7,5 @@
 #### About Me 
 Trivial me. Trivial things.
   
-[More About Me](https://terryyz.github.io/_pages/resume.pdf)
+[More About Me](https://terryyz.github.io/_pages/cv.pdf)
 
