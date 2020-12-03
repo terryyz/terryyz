@@ -1,7 +1,7 @@
 ## Hi there :wave:
 
 #### News
-* Start working on Armadillo API in Python
+* Start working on [Armadillo](http://arma.sourceforge.net/) API in Python
 * Incoming Applied AI scientist intern @[Harrison.ai](https://www.harrison.ai/)
   
 #### About Me 
