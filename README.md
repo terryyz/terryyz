@@ -1,8 +1,8 @@
 ## Hi there :wave:
 
 #### News
-Will work with [Conrad Sanderson](https://github.com/conradsnicta) this summer on the improvement of tools for data analytics and machine learning.  
-But still looking for more fun :p
+* Start working on Armadillo API in Python
+* Incoming Applied AI scientist intern @[Harrison.ai](https://www.harrison.ai/)
   
 #### About Me 
 Trivial me. Trivial things.
