@@ -1,11 +1,12 @@
 ## Hi there :wave:
 
 #### News
-* Start working on [Armadillo](http://arma.sourceforge.net/) API in Python
-* Applied AI Scientist Intern @[Harrison.ai](https://www.harrison.ai/)
-  
+* [PyArmadillo](http://pyarma.sourceforge.net/) will be released soon!
+* I really enjoy my internsip @[Harrison.ai](https://www.harrison.ai/) and will finish it :P
+* One ACL paper is being prepared and will submit soon!
+
 #### About Me 
 Trivial me. Trivial things.
   
-[More About Me](https://terryyz.github.io/_pages/cv.pdf)
+[More About Me](https://terryyz.github.io/_pages/resume.pdf)
 
