@@ -1,7 +1,7 @@
 ## Hi there :wave:
 
 #### News
-* [PyArmadillo](http://pyarma.sourceforge.net/) will be released soon!
+* [PyArmadillo](http://pyarma.sourceforge.net/) is released!
 * I really enjoy my internsip @[Harrison.ai](https://www.harrison.ai/) and will finish it soon:P
 * One ACL paper is being prepared and will submit soon!
 
