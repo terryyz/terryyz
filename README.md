@@ -1,4 +1,4 @@
 ## Hi there :wave:
 
 #### About Me 
-Working on Programming Agents
+Working on Code Intelligence
